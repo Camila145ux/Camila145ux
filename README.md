@@ -13,7 +13,7 @@
   <br>
   <p align="center">
     <samp>
-      #html, #css, #javascript, #git, #react, #python, #Java SE, #SQL, #Bash, #linux
+      #html, #css, #javascript, #git, #SQL, #linux
      </samp>
     <br>
   </p>
