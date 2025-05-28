@@ -1,7 +1,7 @@
 ### Hello World. I'm Camila 👋.
 ---
 <p>
-  <img src="./gif1.gif" align="right" width="15%"/>
+  <img src="./gif1.gif" align="right" width="25%"/>
   <samp>
     <br>Soy un desarrollador Web y creador de contenidos digitales.
     <br>
