@@ -5,9 +5,9 @@
   <samp>
     <br>Soy un desarrollador Web y creador de contenidos digitales.
     <br>
-    <br>🔹 Actualmente estoy aprendiendo REACT
-    <br>🔹 Programación en python con raspberry pi pico W
-    <br>🔹 Me interesa el desarrollo de aplicaciones web.
+    <br>🔹 Actualmente estoy aprendiendo a crear paginas web's.
+    <br>🔹 Programación en Java y CSS.
+    <br>🔹 Me interesa el desarrollo de ciberseguridad.
     </samp>
    <br>
   <br>
