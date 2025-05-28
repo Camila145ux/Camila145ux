@@ -3,7 +3,7 @@
 <p>
   <img src="./gif1.gif" align="right" width="30%"/>
   <samp>
-    <br>Soy un desarrollador Web y creador de contenidos digitales.
+    <br>Soy un estudieante creador de contenidos digitales.
     <br>
     <br>🔹 Actualmente estoy aprendiendo a crear paginas web's.
     <br>🔹 Programación en Java y CSS.
@@ -13,7 +13,7 @@
   <br>
   <p align="center">
     <samp>
-      #html, #css, #javascript, #git, #SQL, #linux
+      #html, #css, #javascript, #github, #SQL, #linux
      </samp>
     <br>
   </p>
